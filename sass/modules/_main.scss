@@ -1,0 +1,13 @@
+// my main rules 
+body {
+    font: $main-font;
+    font-size: $main-font-size;
+    background-color: $main-bg-color;
+}
+
+.bodyC {
+    position:relative;
+    padding:0;
+    background-color:#f1f1f1;
+    margin-right:-15px;
+}
