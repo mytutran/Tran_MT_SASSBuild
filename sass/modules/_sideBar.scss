@@ -1,4 +1,4 @@
-// for the side bar section
+// The Side Bar Part
 .sidebarC { 
     background-color:#505050; 
     color: white;
@@ -33,4 +33,15 @@
     i, span{
         margin-right:10px;
     }
+}
+
+.profileImg {
+    border: 3px solid white;
+}
+
+.imgText {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    left:12%;
 }
