@@ -11,7 +11,8 @@
         handleData(data);
         })
         .catch ((err) => {
-            // alert("Oops! Do you smell something?");
+            // Error Message
+            alert("Oops! Do you smell something?");
             console.log(err);
          }) 
 
@@ -27,14 +28,7 @@
             infoText[1].innerHTML = ("Professor") +" "+ data.profname;
             
             infoTime[1].innerHTML = data.classtime[0];
-            infoTime[3].innerHTML = data.classtime[1];
-         
-
-            // infoTime[1].innerTime = data.classtime[0];
-            // infoTime[3].innerTime = data.classtime[0];
-
-        
-
+            infoTime[3].innerHTML = data.classtime[1];       
             
     }
 })();
