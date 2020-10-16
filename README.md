@@ -1,5 +1,8 @@
 # SASS Build
-Rewriting a part of a provided CSS file by using SASS, then compiling it into a production-ready CSS file.
+1. Rewriting a part of a provided CSS file by using SASS, then compiling it into a production-ready CSS file.
+2. Using Fetch API, get data from a JSON and load it onto the page.
+
+Requirements and Solution to Ajax Build: https://docs.google.com/document/d/1EzcQM7n9pd-LGR78F-xnfL7haTDJm927rkKtefsnGy8/edit?usp=sharing
 
 ![SASS Banner](images/sass.jpg)
 
